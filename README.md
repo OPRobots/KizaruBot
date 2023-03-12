@@ -18,4 +18,7 @@ El primer robot siguelineas creado por OPRobots; "fácilmente" replicable
 
 ## Software
 - Programado con Arduino IDE
-- Programa muy básico con condiciones de línea y asignación de velocidad súper simples
+- Hay varios programas diponibles:
+    - Básico con IFs
+    - PID y línea con IFs
+    - PID y línea analógica
